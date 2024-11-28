@@ -23,3 +23,6 @@ Construir soluções que impactem positivamente pessoas e empresas através do p
 ## 🔗 Conecte-se comigo!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salufelipe_)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipesalustianomoreira)
+
+## Git Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeSalustiano&show_icons=true&theme=radical)
