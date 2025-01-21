@@ -1,7 +1,7 @@
 # Felipe Salustiano
 
 ## Olá, mundo! 🌍👋
-Me chamo Felipe Salustiano Moreira, tenho 19 anos e moro na linda cidade de Olinda, Pernambuco. Sou estudante de Ciência da Computação no 2º período na UNINASSAU. Atualmente atuo na área de desenvolvimento na empresa MV Sitemas LTDA!
+Me chamo Felipe Salustiano Moreira, tenho 19 anos e moro na linda cidade de Olinda, Pernambuco. Sou estudante de Ciência de Dados e IA no 1º período na CESAR School. Atualmente atuo na área de desenvolvimento na empresa MV Sitemas LTDA!
 
 ## 👨‍💻 Linguagens/Ferramentas que utilizo
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
