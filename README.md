@@ -16,13 +16,13 @@ My name’s Felipe Salustiano Moreira, I’m 19 years old, and I live in the bea
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white)
 
 ## 🌟 What Motivates Me?
-Minha paixão por dados! Quero me tornar um Cientista de Dados e explorar as infinitas possibilidades de transformar números e informações em insights incríveis.
+My passion for data! I aspire to become a Data Scientist and explore the endless possibilities of transforming numbers and information into powerful insights.
 
 ## 📚 What Am I Learning?
-Atualmente, estou mergulhando no mundo da programação, análise de dados e desenvolvimento de habilidades essenciais para minha futura carreira.
+Currently, I’m diving into the world of programming, data analysis, and developing essential skills for my future career.
 
 ## 🎯 My Goal?
-Construir soluções que impactem positivamente pessoas e empresas através do poder dos dados!
+Building solutions that positively impact people and businesses through the power of data!
 
 ## 🔗 Connect With Me!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salufelipe_)
