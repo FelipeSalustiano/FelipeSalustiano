@@ -28,7 +28,7 @@ Building solutions that positively impact people and businesses through the powe
 
 ## 🔗 Connect With Me!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salufelipe_)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipesalustianomoreira)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moreirasfelipe)
 
 ## Git Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeSalustiano&show_icons=true&theme=radical)
