@@ -23,10 +23,10 @@ My name’s Felipe Salustiano Moreira, I’m 19 years old, and I live in the bea
 My passion for data! I aspire to become a Data Scientist and explore the endless possibilities of transforming numbers and information into powerful insights.
 
 ## 📚 What Am I Learning?
-Currently, I’m diving into the world of programming, data analysis, and developing essential skills for my future career.
+Currently, I’m diving deep into Data Science, sharpening my abilities in data analysis, programming, and machine learning to build a strong and impactful career in the field.
 
 ## 🎯 My Goal?
-Building solutions that positively impact people and businesses through the power of data!
+Creating data-driven solutions that generate real value for people and businesses, transforming insights into impactful actions!
 
 ## 🔗 Connect With Me!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salufelipe_)
