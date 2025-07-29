@@ -1,7 +1,8 @@
 # Felipe Salustiano
 
 ## Hello, World! 🌍👋
-My name’s Felipe Salustiano Moreira, I’m 19 years old, and I live in the beautiful city of Olinda, Pernambuco. I'm a Data Science and AI student at CESAR School. Currently, I work in the development area at MV Sistemas LTDA!
+My name is Felipe Salustiano Moreira, I’m 20 years old, and I live in the beautiful city of Olinda, Pernambuco. I’m currently a Data Science and Artificial Intelligence student at CESAR School, and I work in the development department at MV Sistemas LTDA.
+
 
 ## 💻 Tech Stack
 
@@ -21,13 +22,13 @@ My name’s Felipe Salustiano Moreira, I’m 19 years old, and I live in the bea
 [![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)](https://powerbi.microsoft.com/)
 
 ## 🌟 What Motivates Me?
-My passion for data! I aspire to become a Data Scientist and explore the endless possibilities of transforming numbers and information into powerful insights.
+I have a deep passion for data and technology. I aspire to become a Data Scientist, exploring the endless possibilities of transforming numbers and information into powerful insights. I am especially fascinated by using Machine Learning to make predictions and uncover patterns that drive smarter decisions.
 
 ## 📚 What Am I Learning?
-Currently, I’m diving deep into Data Science, sharpening my abilities in data analysis, programming, and machine learning to build a strong and impactful career in the field.
+Currently, I am deeply immersed in Data Science, confidently honing my skills in data analysis, programming, and machine learning. With hands-on experience and a strong commitment to continuous learning, I am building a solid foundation to make a meaningful impact in the field.
 
 ## 🎯 My Goal?
-Creating data-driven solutions that generate real value for people and businesses, transforming insights into impactful actions!
+Developing data-driven solutions powered by Machine Learning to extract actionable insights, drive informed decisions, and create real value for people and businesses.
 
 ## 🔗 Connect With Me!
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/salufelipe_)
