@@ -17,7 +17,7 @@ Embora minha caminhada ainda esteja nos primeiros passos, já tive a chance de t
 Quero crescer não só tecnicamente, mas como líder e inovador no mundo dos dados. Me vejo inspirando outros profissionais, criando soluções disruptivas e contribuindo para transformar negócios e até comunidades. Minha meta é estar na linha de frente das novidades, aprendendo e aplicando tecnologias que mudem o jogo.
 
 ## 🔗 Vamos nos conectar?  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moreirasfelipe)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipesalustianomoreira)
 
 ## 📊 Minhas estatísticas no GitHub  
 
