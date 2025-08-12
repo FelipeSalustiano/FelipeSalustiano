@@ -1,7 +1,7 @@
 # Felipe Salustiano
 
 ## Olá, Mundo dos Dados! 📊🔍  
-Eu sou o Felipe Salustiano Moreira, tenho 20 anos e moro na linda cidade histórica de Olinda, Pernambuco. Estudo Ciência de Dados e Inteligência Artificial na CESAR School e atuo como analista de dados na Arcanjo & Company. Apesar de estar no começo da minha jornada, já acumulo uma experiência legal trabalhando com dados que me deixou ainda mais apaixonado por essa área.
+Eu sou o Felipe Salustiano Moreira, tenho 20 anos e moro na linda cidade histórica de Olinda, Pernambuco. Estudo Ciência de Dados e Inteligência Artificial na CESAR School e atuo como analista de dados na Arcanjo & Company. Ao longo da minha trajetória, já acumulei experiências valiosas trabalhando com dados, o que só reforçou minha paixão e dedicação por essa área.
 
 ## 💾 Minhas Tecnologias Favoritas
 
@@ -11,7 +11,7 @@ Eu sou o Felipe Salustiano Moreira, tenho 20 anos e moro na linda cidade histór
 Eu tenho uma paixão enorme por entender o que os dados têm a dizer. Mais do que isso, quero usar essa linguagem dos números para criar soluções que realmente façam a diferença. Meu sonho é me tornar uma referência na área de Ciência de Dados, sempre inovando e trazendo insights que transformem o jeito das pessoas e empresas tomarem decisões. A cada projeto, fico mais animado em explorar as possibilidades do Machine Learning para prever o futuro e descobrir padrões escondidos.
 
 ## 📖 O que estou aprendendo?  
-Embora minha caminhada ainda esteja nos primeiros passos, já tive a chance de trabalhar com projetos reais que me desafiaram e fizeram crescer muito. Estou mergulhado no universo da análise, programação e modelos preditivos, sempre buscando aprender de forma prática e aplicada. Acredito que o aprendizado constante é a chave para quem quer deixar sua marca nesse mercado que evolui tão rápido.
+Estou sempre imerso no universo da análise, programação e modelos preditivos, buscando aprender de forma prática e aplicada. Acredito que o aprendizado constante é a chave para deixar minha marca nesse mercado que evolui rapidamente.
 
 ## 🎯 Minha visão para o futuro  
 Quero crescer não só tecnicamente, mas como líder e inovador no mundo dos dados. Me vejo inspirando outros profissionais, criando soluções disruptivas e contribuindo para transformar negócios e até comunidades. Minha meta é estar na linha de frente das novidades, aprendendo e aplicando tecnologias que mudem o jogo.
