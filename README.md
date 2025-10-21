@@ -20,6 +20,7 @@ _Ago/2024 – Ago/2025_
 - Atuei no desenvolvimento de sistemas e documentos eletrônicos.  
 - Realizei melhorias em processos internos e automações.  
 
+
 ## 🎯 Áreas de Interesse
 - Ciência de Dados
 - Análise de Dados
