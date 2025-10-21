@@ -12,8 +12,8 @@ Eu sou o Felipe Salustiano Moreira, tenho 20 anos e moro na linda cidade histór
 _Ago/2025 – Presente_  
 - Analiso dados para gerar insights estratégicos.  
 - Desenvolvimento de dashboards e relatórios interativos.
-- Rezalização de processos ETL
-- Criação de modelos de Machine Learning
+- Realização de processos ETL.
+- Criação de modelos de Machine Learning.
 
 **Desenvolvedor** | MV Sistemas  
 _Ago/2024 – Ago/2025_  
