@@ -11,6 +11,7 @@ Eu sou o Felipe Salustiano Moreira, tenho 20 anos e moro na linda cidade histór
 - Ciência de Dados
 - Análise de Dados
 - Machine Learning Engineering
+- Áreas correlatas
 
 ## 🧠 Soft Skills  
 - Comunicativo
