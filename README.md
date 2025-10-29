@@ -35,21 +35,15 @@ _Ago/2024 – Ago/2025_
 - Adaptabilidade
   
 ## 💻 Hard Skills  
-- Estatística 
+- Análise de dados
 - Manipulação de dados
 - Limpeza de dados
 - Visualização de dados
 - ETL
 - Machine Learning
 - Big Data
+- Estatística
 - Versionamento (git/github)
 
 ## 🔗 Vamos nos conectar?  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipesalustianomoreira)
-
-## 📊 Minhas estatísticas no GitHub  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FelipeSalustiano&show_icons=true&theme=radical)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeSalustiano&layout=compact&theme=radical)  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipesalustianomoreira) 
