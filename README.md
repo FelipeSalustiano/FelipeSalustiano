@@ -11,7 +11,7 @@ Eu sou o Felipe Salustiano Moreira, tenho 20 anos e moro em Olinda, Pernambuco. 
 ## 💼 Experiências
 **Analista de Dados** | Arcanjo & Company  
 _Ago/2025 – Presente_  
-- Analiso dados para gerar insights estratégicos.  
+- Analise de dados para gerar insights estratégicos.  
 - Desenvolvimento de dashboards e relatórios interativos.
 - Realização de processos ETL.
 - Criação de modelos de Machine Learning.
