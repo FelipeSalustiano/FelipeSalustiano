@@ -1,5 +1,7 @@
-## **FELIPE SALUSTIANO**
-**_Data Scientist_**
+## **Felipe Salustiano Moreira** 
+##### _Data Scientist_
+---
+
 Eu sou o Felipe Salustiano Moreira, tenho 20 anos e moro na linda cidade histórica de Olinda, Pernambuco. Estudo Ciência de Dados na CESAR School e atuo como Analista de Dados na Arcanjo & Company. Ao longo da minha trajetória, já acumulei experiências valiosas trabalhando com dados, o que só reforçou minha paixão e dedicação por essa área.
 
 ## 🛠️ Bibliotecas e Ferramentas mais utilizadas
